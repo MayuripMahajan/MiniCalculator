@@ -1,0 +1,9 @@
+//Callback fuction
+// those function are passed in another function as a parameter 
+// egadd.addEventListener('click', () => add(1, 4));
+
+//Using parameter 
+// whenevevr we call the function using parameter used callback function
+eg: display.addEventListener('click',()=>{
+    greting("Hello")
+})
